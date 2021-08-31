@@ -1,27 +1,27 @@
-## Student Name (or name you would preferred to be called)
+## Valerie Fontanez(or name you would preferred to be called)
 
 ### Fall 2021
 
 DSBA student at [Florida Polytechnic University](https://www.floridapoly.edu) currently enrolled in: 
 
-- Course
+- Calculus 1
 
-- Course 2
+- Introduction to Python
 
-- Course 3
+- Cloud Infrastructure and Services
 
-- Course 4
+- Introduction to Data Science
 
 **Hobbies:**
 
 I am _passionate about_: 
 
-- Thing 1
+- Gym
 
-- Thing 2
+- Traveling 
 
-- Thing 3 as shown in this website <https://www.floridapoly.edu>
+- Greece <https://en.wikipedia.org/wiki/Greece>
 
 ***
 
-> Last modified: YYYY/MM/DD
+> Last modified: 2021/08/31
